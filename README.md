@@ -8,3 +8,5 @@
 | :---:  |                          :---                                        |  :---:    |  :---:      | :---:          |
 ||||||||
 |  754  | [Reach a Number](https://leetcode.com/problems/reach-a-number)             | [Solution](https://github.com/moulikcipherX/LeetCode/tree/master/754.%20Reach%20a%20Number) | Easy | ```Math```
+||||||||
+|  728  | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)             | [Solution](https://github.com/moulikcipherX/LeetCode/tree/master/728.%20Self%20Dividing%20Numbers) | Easy | ```Math```
