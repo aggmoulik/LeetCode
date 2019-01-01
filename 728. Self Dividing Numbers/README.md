@@ -1,9 +1,11 @@
+```cpp
+
 class Solution {
 public:
     vector<int> selfDividingNumbers(int left, int right) {
-        
+
         vector<int> ans;
-        
+
         for(int i = left; i <= right ;i++)
         {
             if( log10(double(i)) + 1 == 1 ) ans.push_back(i);
@@ -26,3 +28,5 @@ public:
         return ans;
     }
 };
+
+```
